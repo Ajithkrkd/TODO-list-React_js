@@ -1,0 +1,11 @@
+.main-div  {
+    padding-top: 50px;
+    background: linear-gradient(to bottom, #ff69b4, #6495ed); 
+    min-height: 600px;
+    border-radius: 20px;
+}
+
+#line_through{
+    text-decoration: line-through;
+    opacity: 50%;
+}

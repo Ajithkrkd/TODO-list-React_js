@@ -1,0 +1,5 @@
+.header{
+    height: 5rem;
+    background-color: cornflowerblue;
+    display: flex;
+}
